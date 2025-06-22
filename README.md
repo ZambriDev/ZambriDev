@@ -27,7 +27,7 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ZambriDev/ZambriDev/main/magic_code_creature.png" width="300" alt="Magic Creature"/>
+  <img src="https://raw.githubusercontent.com/ZambriDev/ZambriDev/main/magic_code_creature.png" width="320" alt="Magic Creature"/>
 </p>
 
 <h3 align="center"><strong>“Code is just a spell cast with logic.” ✨💀</strong></h3>
