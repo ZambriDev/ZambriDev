@@ -23,6 +23,6 @@
 ---
 
 <p align="center">
-  <img src="https://github.com/ZambriDev.png" width="100px" style="border-radius: 50%"><br/>
+  <img src="https://github.com/ZambriDev.png" width="1000px" style="border-radius: 50%"><br/>
   <b>“Code is just a spell cast with logic.” 🪄💀</b>
 </p>
