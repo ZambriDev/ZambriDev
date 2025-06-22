@@ -15,7 +15,7 @@
 - 🧠 AI, Machine Learning
 
 ### 🚀 Projects:
-- 🔍 [ERP-Project-3-Ventas-app](https://github.com/ZambriDev/ERP-Project-3-Ventas-app): módulo de ventas
+- 🔍 [ERP-Project-3-Ventas-app](https://github.com/ERP-Project-3/ventas-app): módulo de ventas
 
 ### 📈 GitHub Stats:
 ![ZambriDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZambriDev&show_icons=true&theme=tokyonight)
