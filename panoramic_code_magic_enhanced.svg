@@ -44,5 +44,5 @@
   <text x="380" y="140" class="symbol2">&lt;/&gt;</text>
   <text x="480" y="100" class="symbol">()</text>
   <text x="580" y="125" class="symbol2">function()</text>
-  <text x="680" y="150" class="symbol2">console.log()</text>
+  <text x="480" y="150" class="symbol2">console.log()</text>
 </svg>
