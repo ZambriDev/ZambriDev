@@ -7,7 +7,7 @@
 
 ---
 
-### 🧰 Technologies I work with:
+### ⌨️ Technologies I work with:
 - 💻 C#, Python, JavaScript, TypeScript
 - ⚙️ React, .NET, Unity, SQL, Testing Automation
 - 🌐 HTML, CSS, Tailwind
@@ -27,6 +27,7 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ZambriDev/ZambriDev/main/magic_code_creature.png" style="border-radius: 50%"><br/><br/>
-  <b>“Code is just a spell cast with logic.” 🪄💀</b>
+  <img src="https://raw.githubusercontent.com/ZambriDev/ZambriDev/main/magic_code_creature.png" style="border-radius: 50%">
+  <br/><br/>
+  <span style="font-size: 20px;"><strong>“Code is just a spell cast with logic.” ✨💀</strong></span>
 </p>
