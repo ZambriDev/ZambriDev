@@ -38,11 +38,11 @@
   <rect width="800" height="200" class="background" />
 
   <!-- Enhanced magical code symbols -->
-  <text x="20" y="100" class="symbol">{{}}</text>
-  <text x="150" y="130" class="symbol2">&lt;/&gt;</text>
-  <text x="250" y="85" class="symbol">[]</text>
-  <text x="350" y="140" class="symbol2">&lt;/&gt;</text>
-  <text x="450" y="100" class="symbol">()</text>
-  <text x="550" y="125" class="symbol2">function()</text>
-  <text x="130" y="190" class="symbol2">console.log()</text>
+  <text x="40" y="80" class="symbol">{{}}</text>
+  <text x="150" y="110" class="symbol2">&lt;/&gt;</text>
+  <text x="250" y="65" class="symbol">[]</text>
+  <text x="350" y="120" class="symbol2">&lt;/&gt;</text>
+  <text x="450" y="80" class="symbol">()</text>
+  <text x="550" y="105" class="symbol2">function()</text>
+  <text x="130" y="170" class="symbol2">console.log()</text>
 </svg>
