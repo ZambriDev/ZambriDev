@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ZambriDev/ZambriDev/main/panoramic_magic_banner.svg" alt="Magic Panorama"/>
+</p>
+
 <h1 align="center">Hi, I'm Jesus Zambrano 👋</h1>
 <p align="center">🧙‍♂️ Programming is the new magic of technology 🔮</p>
 
